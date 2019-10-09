@@ -56,6 +56,10 @@ header a{
 
 }
 
+h1.header {
+    font-size: 3em;
+}
+
 strong{
     color: $color2;
 }
@@ -72,6 +76,7 @@ nav a:hover{
     transition: .3s;
     color: darkolivegreen;
 }
+
 
 
 footer{

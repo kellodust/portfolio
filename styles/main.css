@@ -37,6 +37,10 @@ header a {
   color: #899a7b;
 }
 
+h1.header {
+  font-size: 3em;
+}
+
 strong {
   color: #a4b097;
 }
