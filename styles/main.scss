@@ -45,8 +45,10 @@ body{
     position: relative;
     padding-bottom: 120px;
     background-color: $body-background-color;
+    max-width: 90%;
+    margin-left: 5%;
+    margin-right: 5%;
 }
-
 
 header a{
     text-decoration: none;
