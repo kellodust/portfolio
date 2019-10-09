@@ -196,6 +196,9 @@ footer .socialmedia img {
         -ms-grid-row-align: center;
         align-self: center;
   }
+  .portfolio img {
+    width: 100%;
+  }
   .bio {
     display: -webkit-box;
     display: -ms-flexbox;
