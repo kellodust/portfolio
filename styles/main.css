@@ -206,5 +206,9 @@ footer .socialmedia img {
   .bio p {
     padding-left: 5%;
   }
+  .portfoliogrid {
+    display: -ms-grid;
+    display: grid;
+  }
 }
 /*# sourceMappingURL=main.css.map */
