@@ -154,7 +154,7 @@ nav ul li.active a {
 
 nav a:hover{
     transition: .3s;
-    color: darkolivegreen;
+    color: grey;
 }
 
 main {
