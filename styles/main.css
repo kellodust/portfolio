@@ -57,6 +57,25 @@ nav a {
   list-style: none;
 }
 
+.mainmenu li {
+  display: none;
+}
+
+.mainmenu.responsive {
+  position: relative;
+}
+
+.mainmenu.responsive li {
+  background-color: black;
+  display: block;
+  width: 100%;
+}
+
+.mainmenu.responsive li a {
+  text-align: left;
+  display: block;
+}
+
 nav a:hover {
   -webkit-transition: .3s;
   transition: .3s;
