@@ -53,6 +53,10 @@ header {
           align-items: flex-end;
 }
 
+h1 {
+  font-size: 5em;
+}
+
 h1.header {
   font-size: 3em;
 }
