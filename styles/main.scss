@@ -55,7 +55,6 @@ header a{
 header{
     display: flex;
     flex-direction: row;
-    justify-content: space-between;
     align-items: center;
 }
 
@@ -85,7 +84,7 @@ nav a{
     width: 35px;
     height: 5px;
     background-color: $color1;
-    margin: 6px;
+    padding: 3px
 }
 
 .mainmenu.responsive div{

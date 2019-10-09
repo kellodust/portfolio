@@ -45,9 +45,6 @@ header {
   -webkit-box-direction: normal;
       -ms-flex-direction: row;
           flex-direction: row;
-  -webkit-box-pack: justify;
-      -ms-flex-pack: justify;
-          justify-content: space-between;
   -webkit-box-align: center;
       -ms-flex-align: center;
           align-items: center;
@@ -79,7 +76,7 @@ nav a {
   width: 35px;
   height: 5px;
   background-color: #829b7a;
-  margin: 6px;
+  padding: 3px;
 }
 
 .mainmenu.responsive div {
