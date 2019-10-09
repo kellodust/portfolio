@@ -130,6 +130,10 @@ footer .socialmedia img {
 
 /*Desktop Version*/
 @media only screen and (min-width: 50em) {
+  header {
+    -ms-flex-pack: distribute;
+        justify-content: space-around;
+  }
   h1.header {
     font-size: 300%;
     letter-spacing: 5pt;
@@ -150,7 +154,7 @@ footer .socialmedia img {
   footer .socialmedia img {
     width: 3%;
   }
-  main {
+  .container {
     max-width: 80%;
     padding-left: 10%;
     padding-right: 10%;

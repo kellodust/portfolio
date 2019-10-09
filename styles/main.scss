@@ -149,6 +149,10 @@ footer .socialmedia img{
 
 @media only screen and (min-width: 50em) {
 
+    header{
+        justify-content: space-around;
+    }
+
    
     h1.header {
    
@@ -172,10 +176,6 @@ footer .socialmedia img{
         display: contents;
     }
 
-    nav a{
-
-    }
-
     .mainmenu button{
         display: none;
     }
@@ -185,7 +185,7 @@ footer .socialmedia img{
 
     }
 
-    main{
+    .container{
         max-width: 80%;
         padding-left: 10%;
         padding-right: 10%;
