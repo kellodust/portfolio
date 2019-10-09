@@ -131,6 +131,9 @@ footer .socialmedia img {
   .mainmenu li {
     display: contents;
   }
+  .mainmenu button {
+    display: none;
+  }
   footer .socialmedia img {
     width: 3%;
   }
