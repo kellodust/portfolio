@@ -54,6 +54,7 @@ strong {
 nav a {
   text-decoration: none;
   color: #c8c8aa;
+  list-style: none;
 }
 
 nav a:hover {
