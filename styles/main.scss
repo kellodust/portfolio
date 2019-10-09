@@ -131,6 +131,11 @@ nav a:hover{
     color: lightgray;
 }
 
+
+nav ul li.active a {
+    color: white;
+}
+
 p {
     color: $color4;
     font-size: 2em;
