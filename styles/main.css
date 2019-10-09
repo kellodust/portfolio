@@ -37,6 +37,12 @@ header a {
   color: #899a7b;
 }
 
+header {
+  display: -webkit-box;
+  display: -ms-flexbox;
+  display: flex;
+}
+
 h1.header {
   font-size: 3em;
 }

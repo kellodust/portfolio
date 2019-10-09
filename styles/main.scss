@@ -55,7 +55,9 @@ header a{
     
 
 }
-
+header{
+    display: flex;
+}
 h1.header {
     font-size: 3em;
 }
