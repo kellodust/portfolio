@@ -142,5 +142,8 @@ footer .socialmedia img {
   footer .socialmedia img {
     width: 3%;
   }
+  main {
+    max-width: 80%;
+  }
 }
 /*# sourceMappingURL=main.css.map */
