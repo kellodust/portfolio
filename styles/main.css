@@ -191,5 +191,10 @@ footer .socialmedia img {
   .mypic {
     max-width: 30%;
   }
+  .bio {
+    display: -webkit-box;
+    display: -ms-flexbox;
+    display: flex;
+  }
 }
 /*# sourceMappingURL=main.css.map */
