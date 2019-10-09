@@ -62,6 +62,14 @@ strong {
   color: #a0b297;
 }
 
+nav ul li {
+  text-transform: uppercase;
+  letter-spacing: 2pt;
+  font-size: 130%;
+  display: inline;
+  word-spacing: 20pt;
+}
+
 nav a {
   text-decoration: none;
   color: #4d785f;
