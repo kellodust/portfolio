@@ -158,6 +158,10 @@ footer .socialmedia img {
   h2 {
     font-size: 200%;
   }
+  p {
+    line-height: 2em;
+    font-size: 18pt;
+  }
   .mainmenu li {
     display: contents;
   }
