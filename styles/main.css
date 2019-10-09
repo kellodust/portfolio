@@ -63,14 +63,6 @@ strong {
   color: #a0b297;
 }
 
-nav ul li {
-  text-transform: uppercase;
-  letter-spacing: 2pt;
-  font-size: 130%;
-  display: inline;
-  word-spacing: 20pt;
-}
-
 nav a {
   text-decoration: none;
   color: #4d785f;
@@ -150,6 +142,13 @@ footer .socialmedia img {
     -webkit-box-flex: 2;
         -ms-flex-positive: 2;
             flex-grow: 2;
+  }
+  nav ul {
+    text-transform: uppercase;
+    letter-spacing: 2pt;
+    font-size: 130%;
+    display: inline;
+    word-spacing: 20pt;
   }
   h1 {
     font-size: 1300%;

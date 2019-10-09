@@ -72,16 +72,6 @@ strong{
 }
 
 
-nav ul li {
-    text-transform: uppercase;
-    letter-spacing: 2pt;
-    font-size: 130%;
-    display: inline;
-    word-spacing: 20pt;
-    
-
-}
-
 nav a{  
     text-decoration: none;
     color: $color3;
@@ -184,6 +174,18 @@ footer .socialmedia img{
 
     nav{
         flex-grow: 2;
+    }
+
+
+
+    nav ul{
+        text-transform: uppercase;
+        letter-spacing: 2pt;
+        font-size: 130%;
+        display: inline;
+        word-spacing: 20pt;
+    
+
     }
 
     h1{
