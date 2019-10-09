@@ -153,6 +153,20 @@ footer .socialmedia img{
         justify-content: space-around;
     }
 
+    nav{
+        display: flex;
+    }
+
+    .sticky {
+        position: fixed;
+        top: 0;
+        width: 100%;
+        padding-bottom: 0px;
+        z-index: 99;
+    
+    
+    }
+
    
     h1.header {
    
