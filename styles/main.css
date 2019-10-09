@@ -61,19 +61,24 @@ nav a {
   display: none;
 }
 
+.mainmenu div {
+  width: 35px;
+  height: 5px;
+  background-color: #899a7b;
+  margin: 6px 0;
+}
+
 .mainmenu.responsive {
-  position: relative;
+  position: absolute;
 }
 
 .mainmenu.responsive li {
-  background-color: black;
   display: block;
   width: 100%;
 }
 
 .mainmenu.responsive li a {
   text-align: left;
-  display: block;
 }
 
 nav a:hover {
