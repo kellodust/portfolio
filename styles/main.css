@@ -117,7 +117,7 @@ nav.mainmenu {
 nav a:hover {
   -webkit-transition: .3s;
   transition: .3s;
-  color: gray;
+  color: lightgray;
 }
 
 p {
