@@ -79,7 +79,7 @@ nav a {
   width: 35px;
   height: 5px;
   background-color: #829b7a;
-  margin-top: 8px;
+  margin: 4px;
 }
 
 .mainmenu.responsive div {
@@ -89,7 +89,7 @@ nav a {
 .mainmenu.responsive li {
   display: block;
   width: 100%;
-  font-size: 7em;
+  font-size: 2em;
 }
 
 .mainmenu.responsive li a {
