@@ -76,7 +76,7 @@ nav a {
   width: 35px;
   height: 5px;
   background-color: #829b7a;
-  padding: 3px;
+  margin: 3px;
 }
 
 .mainmenu.responsive div {
