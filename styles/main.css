@@ -68,6 +68,10 @@ h2 {
   color: #a0b297;
 }
 
+h3 {
+  color: #829b7a;
+}
+
 nav a {
   text-decoration: none;
   color: #4d785f;
@@ -156,7 +160,11 @@ footer .socialmedia img {
     font-weight: 900;
   }
   h2 {
+    font-size: 300%;
+  }
+  h3 {
     font-size: 200%;
+    font-weight: 100;
   }
   p {
     line-height: 2em;

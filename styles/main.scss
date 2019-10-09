@@ -75,6 +75,10 @@ h2{
     color: $color2;
 }
 
+h3{
+    color: $color1;
+}
+
 nav a{  
     text-decoration: none;
     color: $color3;
@@ -197,7 +201,13 @@ footer .socialmedia img{
     }
 
     h2 {
+        font-size: 300%;
+    }
+
+    h3 {
         font-size: 200%;
+        font-weight: 100;
+
     }
 
     p{
