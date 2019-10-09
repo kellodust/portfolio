@@ -117,7 +117,7 @@ footer {
 footer .socialmedia img {
   width: 35px;
   padding: .4%;
-  background-color: #a0b297;
+  opacity: 50%;
 }
 
 /*Desktop Version*/
