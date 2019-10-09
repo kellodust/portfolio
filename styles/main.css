@@ -89,6 +89,7 @@ nav a {
 .mainmenu.responsive li {
   display: block;
   width: 100%;
+  size: 2em;
 }
 
 .mainmenu.responsive li a {
