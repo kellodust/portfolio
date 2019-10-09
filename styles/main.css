@@ -34,7 +34,7 @@ body {
 
 header a {
   text-decoration: none;
-  color: #899a7b;
+  color: #829b7a;
 }
 
 header {
@@ -58,7 +58,7 @@ h1.header {
 }
 
 strong {
-  color: #a4b097;
+  color: #a0b297;
 }
 
 nav a {
@@ -74,7 +74,7 @@ nav a {
 .mainmenu div {
   width: 35px;
   height: 5px;
-  background-color: #899a7b;
+  background-color: #829b7a;
   margin: 6px 0;
 }
 
@@ -108,7 +108,7 @@ footer {
   position: absolute;
   text-align: center;
   background-color: white;
-  color: #899a7b;
+  color: #829b7a;
 }
 
 footer .socialmedia img {
