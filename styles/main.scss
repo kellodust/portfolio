@@ -244,7 +244,8 @@ footer .socialmedia img{
 
 
     .bio{
-        display: inline;
+        display: flex;
+        justify-content: center;
     }
 
     .bio p {
