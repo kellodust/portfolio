@@ -72,6 +72,11 @@ nav a {
   display: none;
 }
 
+nav.mainmenu {
+  margin: none;
+  padding: none;
+}
+
 .mainmenu div {
   width: 35px;
   height: 5px;
