@@ -132,11 +132,10 @@ footer .socialmedia img {
 /*Desktop Version*/
 @media only screen and (min-width: 50em) {
   header {
-    -webkit-box-pack: justify;
-        -ms-flex-pack: justify;
-            justify-content: space-between;
+    -ms-flex-pack: distribute;
+        justify-content: space-around;
   }
-  ul {
+  nav ul {
     display: -webkit-box;
     display: -ms-flexbox;
     display: flex;

@@ -151,10 +151,10 @@ footer .socialmedia img{
 @media only screen and (min-width: 50em) {
 
     header{
-        justify-content: space-between;
+        justify-content: space-around;
     }
 
-    ul{
+    nav ul{
         display: flex;
         flex-direction: row;
         justify-content: space-between;
