@@ -72,7 +72,7 @@ strong{
     color: $color2;
 }
 h2{
-    font-size: 40%;
+    font-size: 2em;
     color: $color3;
     text-transform: uppercase;
 }
@@ -225,20 +225,15 @@ footer .socialmedia img{
         display: none;
     }
 
-    .portfolio{
-        padding-left: 10%;
-        padding-right: 10%;
-    }
-
     footer .socialmedia img{
         width: 3%;
 
     }
 
     .container{
-        max-width: 80%;
-        margin-left: 10%;
-        margin-right: 10%;
+        max-width: 70%;
+        margin-left: 15%;
+        margin-right: 15%;
     }
 
     .mypic {
@@ -247,6 +242,10 @@ footer .socialmedia img{
 
     .bio{
         display: flex;
+    }
+
+    .bio p {
+        padding-left: 10%;
     }
 
 

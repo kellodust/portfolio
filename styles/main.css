@@ -64,7 +64,7 @@ strong {
 }
 
 h2 {
-  font-size: 40%;
+  font-size: 2em;
   color: #4d785f;
   text-transform: uppercase;
 }
@@ -176,17 +176,13 @@ footer .socialmedia img {
   .mainmenu button {
     display: none;
   }
-  .portfolio {
-    padding-left: 10%;
-    padding-right: 10%;
-  }
   footer .socialmedia img {
     width: 3%;
   }
   .container {
-    max-width: 80%;
-    margin-left: 10%;
-    margin-right: 10%;
+    max-width: 70%;
+    margin-left: 15%;
+    margin-right: 15%;
   }
   .mypic {
     max-width: 30%;
@@ -195,6 +191,9 @@ footer .socialmedia img {
     display: -webkit-box;
     display: -ms-flexbox;
     display: flex;
+  }
+  .bio p {
+    padding-left: 10%;
   }
 }
 /*# sourceMappingURL=main.css.map */
