@@ -109,7 +109,7 @@ nav.mainmenu {
 nav a:hover {
   -webkit-transition: .3s;
   transition: .3s;
-  color: darkolivegreen;
+  color: gray;
 }
 
 footer {
