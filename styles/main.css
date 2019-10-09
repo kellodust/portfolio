@@ -187,7 +187,9 @@ footer .socialmedia img {
     margin-right: 15%;
   }
   .mypic {
-    width: 30%;
+    -ms-flex-item-align: center;
+        -ms-grid-row-align: center;
+        align-self: center;
   }
   .bio {
     display: -webkit-box;
