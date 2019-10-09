@@ -105,6 +105,10 @@ nav a:hover {
   color: gray;
 }
 
+p {
+  color: #4d785f;
+}
+
 footer {
   height: 90px;
   width: 100%;
