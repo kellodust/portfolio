@@ -70,7 +70,10 @@ h1.header {
 strong{
     color: $color2;
 }
-
+h2{
+    font-size: 40%;
+    color: $color2;
+}
 
 nav a{  
     text-decoration: none;
@@ -191,9 +194,10 @@ footer .socialmedia img{
     h1{
         font-size: 1300%;
         font-weight: 900;
-    
-    
-    
+    }
+
+    h2 {
+        font-size: 200%;
     }
 
     .mainmenu li{
