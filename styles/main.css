@@ -211,7 +211,7 @@ footer .socialmedia img {
     display: grid;
     -ms-grid-columns: auto auto auto;
         grid-template-columns: auto auto auto;
-    grid-column-gap: 50px 50px 50px;
+    grid-column-gap: 50px;
   }
 }
 /*# sourceMappingURL=main.css.map */
