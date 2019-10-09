@@ -65,11 +65,12 @@ strong {
 
 h2 {
   font-size: 40%;
-  color: #a0b297;
+  color: #4d785f;
+  text-transform: uppercase;
 }
 
 h3 {
-  color: #829b7a;
+  color: black;
 }
 
 nav a {
@@ -164,7 +165,6 @@ footer .socialmedia img {
   }
   h3 {
     font-size: 200%;
-    font-weight: 100;
   }
   p {
     line-height: 2em;
