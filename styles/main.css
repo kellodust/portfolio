@@ -39,6 +39,7 @@ header a {
 }
 
 header {
+  margin-top: 5%;
   display: -webkit-box;
   display: -ms-flexbox;
   display: flex;
