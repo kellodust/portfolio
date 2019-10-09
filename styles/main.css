@@ -121,4 +121,9 @@ footer .socialmedia img {
 }
 
 /*Desktop Version*/
+@media only screen and (min-width: 50em) {
+  footer .socialmedia img {
+    width: 7%;
+  }
+}
 /*# sourceMappingURL=main.css.map */
