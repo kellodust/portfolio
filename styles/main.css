@@ -188,5 +188,8 @@ footer .socialmedia img {
     margin-left: 10%;
     margin-right: 10%;
   }
+  .mypic {
+    max-width: 30%;
+  }
 }
 /*# sourceMappingURL=main.css.map */
