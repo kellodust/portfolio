@@ -233,5 +233,18 @@ footer .socialmedia img {
     margin: 10%;
     font-size: 20%;
   }
+  .resume h2 {
+    font-size: 200%;
+  }
+  .resume h3 {
+    font-size: 100%;
+  }
+  .resume h4 {
+    font-size: 90%;
+  }
+  .resume p {
+    line-height: 1.8em;
+    font-size: 16pt;
+  }
 }
 /*# sourceMappingURL=main.css.map */
