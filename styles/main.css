@@ -129,6 +129,11 @@ p {
   font-size: 2em;
 }
 
+h4 {
+  color: black;
+  font-size: 1em;
+}
+
 footer {
   height: 90px;
   width: 100%;
