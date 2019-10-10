@@ -230,7 +230,8 @@ footer .socialmedia img {
     grid-row-gap: 25px;
   }
   .resume {
-    margin: 20%;
+    margin: 10%;
+    font-size: -10%;
   }
 }
 /*# sourceMappingURL=main.css.map */
