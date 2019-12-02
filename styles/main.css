@@ -276,11 +276,13 @@ footer .socialmedia img {
     -ms-grid-row: 1;
         grid-row-start: 1;
   }
-  .home-grid img:nth-of-type(2) {
+  .home-grid img:nth-of-type(5) {
     -ms-grid-column: 3;
         grid-column-start: 3;
-    -ms-grid-row: 1;
-        grid-row-start: 1;
+    -ms-grid-row: 2;
+        grid-row-start: 2;
+    -ms-grid-row-span: 3;
+        grid-row-end: span 3;
   }
 }
 /*# sourceMappingURL=main.css.map */
