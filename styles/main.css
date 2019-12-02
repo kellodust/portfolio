@@ -247,8 +247,8 @@ footer .socialmedia img {
     font-size: 16pt;
   }
   div {
-    width: 10%;
-    height: 10%;
+    width: 10em;
+    height: 10em;
     color: red;
   }
 }
