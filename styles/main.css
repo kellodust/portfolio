@@ -246,7 +246,7 @@ footer .socialmedia img {
     line-height: 1.8em;
     font-size: 16pt;
   }
-  .homegrid {
+  .home-grid {
     display: -ms-grid;
     display: grid;
     -ms-grid-columns: 3;
@@ -254,7 +254,7 @@ footer .socialmedia img {
     -ms-grid-rows: 6;
         grid-template-rows: 6;
   }
-  .homegrid div {
+  .home-grid div {
     width: 2fr;
     height: 1fr;
     background-color: red;
