@@ -303,8 +303,8 @@ footer .socialmedia img{
 }
 .home-grid {
     display: grid;
-    grid-template-columns: 3;
-    grid-template-rows: 6;
+    grid-template-columns: 1fr 1fr 1fr;
+    grid-template-rows: 1fr 1fr 1fr 1fr 1fr 1fr;
 }
 .home-grid div{
     width: 2fr;
