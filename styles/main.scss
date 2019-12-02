@@ -314,9 +314,6 @@ footer .socialmedia img{
     grid-template-columns: 1fr 1fr 1fr;
     grid-template-rows: 30em 30em 30em 30em 30em 30em;
 }
-.home-grid img{
-    color: red;
-}
 
 .home-grid img:hover {
     transition: .4s;
@@ -326,6 +323,7 @@ footer .socialmedia img{
 .home-grid img {
 grid-column-start: 1;
 grid-column-end: 2;
+grid-row-start: 1;
 }
 
 

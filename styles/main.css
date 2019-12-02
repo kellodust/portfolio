@@ -263,9 +263,6 @@ footer .socialmedia img {
     -ms-grid-rows: 30em 30em 30em 30em 30em 30em;
         grid-template-rows: 30em 30em 30em 30em 30em 30em;
   }
-  .home-grid img {
-    color: red;
-  }
   .home-grid img:hover {
     -webkit-transition: .4s;
     transition: .4s;
@@ -275,6 +272,8 @@ footer .socialmedia img {
     -ms-grid-column: 1;
         grid-column-start: 1;
     grid-column-end: 2;
+    -ms-grid-row: 1;
+        grid-row-start: 1;
   }
 }
 /*# sourceMappingURL=main.css.map */
