@@ -170,9 +170,9 @@ footer .socialmedia img {
     word-spacing: 20pt;
   }
   h1 {
-    font-size: 1100%;
+    font-size: 1000%;
     font-weight: 900;
-    padding: none;
+    padding: 0px;
   }
   h2 {
     font-size: 300%;
