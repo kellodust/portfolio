@@ -322,40 +322,40 @@ footer .socialmedia img{
     grid-template-rows: 30em 30em 30em 30em 30em 30em;
 }
 
-.home-grid:hover {
+.home-grid a:hover {
     transition: .4s;
     color: red;
 }
 
-.home-grid img:nth-of-type(1) {
+.home-grid a:nth-of-type(1) {
 grid-column-start: 1;
 grid-column-end: span 2;
 grid-row-start: 1;
 }
 
-.home-grid img:nth-of-type(5) {
+.home-grid a:nth-of-type(5) {
     grid-column-start: 3;
     grid-row-start: 2;
     grid-row-end: span 2;
     }
 
-    .home-grid img:nth-of-type(6) {
+    .home-grid a:nth-of-type(6) {
         grid-column-start: 1;
         grid-row-start: 3;
         grid-column-end: span 2;
         }
-   .home-grid img:nth-of-type(8) {
+   .home-grid a:nth-of-type(8) {
       grid-column-start: 2;
      grid-row-start: 4;
     grid-column-end: span 2;
             }
 
-    .home-grid img:nth-of-type(9) {
+    .home-grid a:nth-of-type(9) {
         grid-column-start: 1;
        grid-row-start: 5;
       grid-row-end: span 2;
                  }
-    .home-grid img:nth-of-type(12) {
+    .home-grid a:nth-of-type(12) {
        grid-column-start: 2;
       grid-row-start: 6;
      grid-column-end: span 2;
