@@ -252,10 +252,14 @@ footer .socialmedia img {
     -ms-grid-rows: 30em 30em 30em 30em 30em 30em;
         grid-template-rows: 30em 30em 30em 30em 30em 30em;
   }
-  .home-grid div {
-    width: 2fr;
-    height: 1fr;
-    background-color: red;
+  .home-grid img {
+    color: red;
+  }
+  .home-grid img:hover {
+    -webkit-transition: .4s;
+    transition: .4s;
+    -webkit-filter: grayscale;
+            filter: grayscale;
   }
 }
 /*# sourceMappingURL=main.css.map */

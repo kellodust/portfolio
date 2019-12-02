@@ -306,11 +306,15 @@ footer .socialmedia img{
     grid-template-columns: 1fr 1fr 1fr;
     grid-template-rows: 30em 30em 30em 30em 30em 30em;
 }
-.home-grid div{
-    width: 2fr;
-    height: 1fr;
-    background-color: red;
+.home-grid img{
+    color: red;
 }
+
+.home-grid img:hover {
+    transition: .4s;
+    filter: grayscale;
+}
+
 
 
 
