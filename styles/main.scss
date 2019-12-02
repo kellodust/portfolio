@@ -151,6 +151,7 @@ p {
 .resume h4{
     color: black;
     font-size: 1.5em;
+    text-align: left;
 }
 
 
@@ -332,34 +333,40 @@ footer .socialmedia img{
 grid-column-start: 1;
 grid-column-end: span 2;
 grid-row-start: 1;
+object-fit: cover;
 }
 
 .home-grid a:nth-of-type(5) {
     grid-column-start: 3;
     grid-row-start: 2;
     grid-row-end: span 2;
+    object-fit: cover;
     }
 
     .home-grid a:nth-of-type(6) {
         grid-column-start: 1;
         grid-row-start: 3;
         grid-column-end: span 2;
+        object-fit: cover;
         }
    .home-grid a:nth-of-type(8) {
       grid-column-start: 2;
      grid-row-start: 4;
     grid-column-end: span 2;
+    object-fit: cover;
             }
 
     .home-grid a:nth-of-type(9) {
         grid-column-start: 1;
        grid-row-start: 5;
       grid-row-end: span 2;
+      object-fit: cover;
                  }
     .home-grid a:nth-of-type(12) {
        grid-column-start: 2;
       grid-row-start: 6;
      grid-column-end: span 2;
+     object-fit: cover;
                 }     
 
 
