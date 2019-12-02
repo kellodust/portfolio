@@ -271,7 +271,8 @@ footer .socialmedia img {
   .home-grid img:nth-of-type(1) {
     -ms-grid-column: 1;
         grid-column-start: 1;
-    grid-column-end: 2;
+    -ms-grid-column-span: 3;
+        grid-column-end: span 3;
     -ms-grid-row: 1;
         grid-row-start: 1;
   }
