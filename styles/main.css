@@ -258,8 +258,12 @@ footer .socialmedia img {
   .home-grid img:hover {
     -webkit-transition: .4s;
     transition: .4s;
-    -webkit-filter: grayscale;
-            filter: grayscale;
+    color: red;
+  }
+  .home-grid img {
+    -ms-grid-column: 1;
+        grid-column-start: 1;
+    grid-column-end: 2;
   }
 }
 /*# sourceMappingURL=main.css.map */

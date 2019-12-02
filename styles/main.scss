@@ -312,9 +312,13 @@ footer .socialmedia img{
 
 .home-grid img:hover {
     transition: .4s;
-    filter: grayscale;
+    color: red;
 }
 
+.home-grid img {
+grid-column-start: 1;
+grid-column-end: 2;
+}
 
 
 
