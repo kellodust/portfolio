@@ -249,8 +249,8 @@ footer .socialmedia img {
     display: grid;
     -ms-grid-columns: 1fr 1fr 1fr;
         grid-template-columns: 1fr 1fr 1fr;
-    -ms-grid-rows: 1fr 1fr 1fr 1fr 1fr 1fr;
-        grid-template-rows: 1fr 1fr 1fr 1fr 1fr 1fr;
+    -ms-grid-rows: 40em 40em 40em 40em 40em 40em;
+        grid-template-rows: 40em 40em 40em 40em 40em 40em;
   }
   .home-grid div {
     width: 2fr;
