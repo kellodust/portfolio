@@ -263,7 +263,7 @@ footer .socialmedia img {
     -ms-grid-rows: 30em 30em 30em 30em 30em 30em;
         grid-template-rows: 30em 30em 30em 30em 30em 30em;
   }
-  .home-grid img:hover {
+  .home-grid:hover {
     -webkit-transition: .4s;
     transition: .4s;
     color: red;
