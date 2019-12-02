@@ -268,10 +268,16 @@ footer .socialmedia img {
     transition: .4s;
     color: red;
   }
-  .home-grid img {
+  .home-grid img:nth-of-type(1) {
     -ms-grid-column: 1;
         grid-column-start: 1;
     grid-column-end: 2;
+    -ms-grid-row: 1;
+        grid-row-start: 1;
+  }
+  .home-grid img:nth-of-type(2) {
+    -ms-grid-column: 3;
+        grid-column-start: 3;
     -ms-grid-row: 1;
         grid-row-start: 1;
   }

@@ -320,11 +320,16 @@ footer .socialmedia img{
     color: red;
 }
 
-.home-grid img {
+.home-grid img:nth-of-type(1) {
 grid-column-start: 1;
 grid-column-end: 2;
 grid-row-start: 1;
 }
+
+.home-grid img:nth-of-type(2) {
+    grid-column-start: 3;
+    grid-row-start: 1;
+    }
 
 
 
