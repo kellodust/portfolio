@@ -303,8 +303,12 @@ footer .socialmedia img{
         font-size: 16pt;
     }
 }
-
-div{
+.homegrid {
+    display: grid;
+    grid-template-columns: 3;
+    grid-template-rows: 6;
+}
+.homegrid div{
     width: 2fr;
     height: 1fr;
     background-color: red;
