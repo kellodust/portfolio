@@ -35,7 +35,15 @@ body{
     text-decoration: none;
     font-family: 'Roboto', sans-serif;
 }
-
+.home {
+    color: hsl(0, 0%, 93%);
+    display: block;
+    position: relative;
+    background-color: $body-background-color;
+    max-width: 90%;
+    margin-left: 5%;
+    margin-right: 5%;
+}
 .container {
    /* color: rgb(103, 118, 97); */
     color: hsl(0, 0%, 93%);

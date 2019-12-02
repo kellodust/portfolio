@@ -22,6 +22,16 @@ body {
   font-family: 'Roboto', sans-serif;
 }
 
+.home {
+  color: #ededed;
+  display: block;
+  position: relative;
+  background-color: white;
+  max-width: 90%;
+  margin-left: 5%;
+  margin-right: 5%;
+}
+
 .container {
   /* color: rgb(103, 118, 97); */
   color: #ededed;
