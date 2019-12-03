@@ -299,7 +299,7 @@ footer .socialmedia img {
           filter: grayscale(100%);
 }
 
-.home-grid a p:hover {
+.home-grid a:hover p {
   visibility: visible;
 }
 
