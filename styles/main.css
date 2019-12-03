@@ -9,6 +9,10 @@ img {
   max-width: 100%;
 }
 
+img:hover {
+  zoom: 200%;
+}
+
 html {
   height: 100%;
   width: 100%;
@@ -185,13 +189,6 @@ footer .socialmedia img {
     font-size: 1000%;
     font-weight: 900;
     margin-bottom: 0;
-  }
-  h1:hover {
-    -webkit-transition: 6s;
-    transition: 6s;
-    background: -webkit-linear-gradient(#ff5050, #df9689, #a56060);
-    -webkit-background-clip: text;
-    -webkit-text-fill-color: transparent;
   }
   h2 {
     font-size: 300%;
