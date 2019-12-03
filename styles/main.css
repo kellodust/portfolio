@@ -277,11 +277,12 @@ footer .socialmedia img {
   z-index: 1;
   position: absolute;
   font-size: 3em;
-  color: #4d785f;
+  color: white;
   text-align: center;
   text-decoration: none;
   margin: 1em;
   opacity: 0%;
+  font-weight: 900;
 }
 
 .home-grid a img {
