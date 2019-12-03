@@ -276,8 +276,8 @@ footer .socialmedia img {
 .home-grid a p {
   z-index: 1;
   position: absolute;
-  font-size: 2em;
-  color: white;
+  font-size: 3em;
+  color: #a0b297;
   text-align: center;
   text-decoration: none;
   margin: 1em;
@@ -300,8 +300,8 @@ footer .socialmedia img {
 }
 
 .home-grid a:hover p {
-  -webkit-transition: .8s;
-  transition: .8s;
+  -webkit-transition: 1s;
+  transition: 1s;
   visibility: visible;
 }
 

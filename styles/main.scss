@@ -327,8 +327,8 @@ footer .socialmedia img{
 .home-grid a p{
     z-index: 1;
     position: absolute;
-    font-size: 2em;
-    color: white;
+    font-size: 3em;
+    color: $color2;
     text-align: center;
     text-decoration: none;
     margin: 1em;
@@ -345,7 +345,7 @@ footer .socialmedia img{
     transition: .7s;
     filter: grayscale(100%);
     & p{
-        transition: .8s;
+        transition: 1s;
         visibility: visible;
     }
 }
