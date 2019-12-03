@@ -187,11 +187,11 @@ footer .socialmedia img {
     margin-bottom: 0;
   }
   h1:hover {
-    background: -webkit-linear-gradient(indigo, purple, magenta, pink);
-    -webkit-transition: .4s;
-    transition: .4s;
+    background: -webkit-linear-gradient(#d1abe8, #af88af, #a560a5, #ffc0ef);
     -webkit-background-clip: text;
     -webkit-text-fill-color: transparent;
+    -webkit-transition: 6s;
+    transition: 6s;
   }
   h2 {
     font-size: 300%;
