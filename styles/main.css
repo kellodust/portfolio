@@ -189,7 +189,7 @@ footer .socialmedia img {
   h1:hover {
     -webkit-transition: 6s;
     transition: 6s;
-    background: -webkit-linear-gradient(#d1abe8, #af88af, #a560a5, #ffc0ef);
+    background: -webkit-linear-gradient(#ff5050, #df9689, #a56060);
     -webkit-background-clip: text;
     -webkit-text-fill-color: transparent;
   }
