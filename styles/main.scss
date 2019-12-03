@@ -333,7 +333,7 @@ footer .socialmedia img{
     text-align: center;
     text-decoration: none;
     margin: 1em;
-    opacity: 0%;
+    opacity: 0;
     font-weight: 900;
 }
 .home-grid a img{
@@ -350,7 +350,7 @@ footer .socialmedia img{
     }
     & p{
         transition: 1s;
-        opacity: 100%;
+        opacity: 1;
     }
 }
 
