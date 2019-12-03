@@ -300,6 +300,8 @@ footer .socialmedia img {
 }
 
 .home-grid a:hover p {
+  -webkit-transition: .8s;
+  transition: .8s;
   visibility: visible;
 }
 

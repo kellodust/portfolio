@@ -345,6 +345,7 @@ footer .socialmedia img{
     transition: .7s;
     filter: grayscale(100%);
     & p{
+        transition: .8s;
         visibility: visible;
     }
 }
