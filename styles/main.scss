@@ -341,9 +341,11 @@ footer .socialmedia img{
     object-fit: cover;
 }
 
-.home-grid a img:hover {
+.home-grid a:hover {
+    & img{
     transition: .7s;
     filter: grayscale(100%);
+    }
     & p{
         transition: 1s;
         opacity: 100%;
