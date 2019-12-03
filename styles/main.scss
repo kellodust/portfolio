@@ -228,10 +228,11 @@ footer .socialmedia img{
   
     }
     h1:hover{
+        transition: 6s;
         background: -webkit-linear-gradient(rgb(209, 171, 232), rgb(175, 136, 175), rgb(165, 96, 165), rgb(255, 192, 239));
         -webkit-background-clip: text;
         -webkit-text-fill-color: transparent;
-        transition: 6s;
+        
     }
 
     h2 {
