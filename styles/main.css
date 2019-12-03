@@ -187,8 +187,7 @@ footer .socialmedia img {
     margin-bottom: 0;
   }
   h1:hover {
-    background: -webkit-gradient(linear, left top, left bottom, from(indigo), color-stop(purple), color-stop(magenta), to(pink));
-    background: linear-gradient(indigo, purple, magenta, pink);
+    background: -webkit-linear-gradient(indigo, purple, magenta, pink);
     -webkit-transition: .4s;
     transition: .4s;
   }
