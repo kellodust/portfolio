@@ -200,21 +200,21 @@ footer .socialmedia img{
     
     
     // }
-    
+
     h1{
         font-size: 1000%;
         font-weight: 900;
         margin-bottom: 0;
-        transition: 6s;
+       
   
     }
-     h1:hover{
+    //  h1:hover{
+    //      transition: 6s;
+    //      background: -webkit-linear-gradient(purple, rgb(165, 96, 96));
+    //      -webkit-background-clip: text;
+    //      -webkit-text-fill-color: transparent;
         
-         background: -webkit-linear-gradient(purple, rgb(165, 96, 96));
-         -webkit-background-clip: text;
-         -webkit-text-fill-color: transparent;
-        
-     }
+    //  }
 
    
     h1.header {
