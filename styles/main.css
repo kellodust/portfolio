@@ -186,6 +186,11 @@ footer .socialmedia img {
     font-weight: 900;
     margin-bottom: 0;
   }
+  h1:hover {
+    color: indigo;
+    -webkit-transition: .4s;
+    transition: .4s;
+  }
   h2 {
     font-size: 300%;
   }
