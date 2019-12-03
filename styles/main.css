@@ -280,6 +280,8 @@ footer .socialmedia img {
   color: white;
   text-align: center;
   text-decoration: none;
+  margin: 1em;
+  visibility: hidden;
 }
 
 .home-grid a img {
@@ -295,6 +297,10 @@ footer .socialmedia img {
   transition: .7s;
   -webkit-filter: grayscale(100%);
           filter: grayscale(100%);
+}
+
+.home-grid a p:hover {
+  visibility: visible;
 }
 
 .home-grid a:nth-of-type(1) {

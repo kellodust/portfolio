@@ -331,6 +331,8 @@ footer .socialmedia img{
     color: white;
     text-align: center;
     text-decoration: none;
+    margin: 1em;
+    visibility: hidden;
 }
 .home-grid a img{
     height: 100%;
@@ -342,6 +344,9 @@ footer .socialmedia img{
 .home-grid a:hover {
     transition: .7s;
     filter: grayscale(100%);
+}
+.home-grid a p:hover {
+    visibility: visible;
     
 }
 
