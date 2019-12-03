@@ -229,15 +229,16 @@ footer .socialmedia img{
         font-size: 1000%;
         font-weight: 900;
         margin-bottom: 0;
+        transition: 6s;
   
     }
-    // h1:hover{
-    //     transition: 6s;
-    //     background: -webkit-linear-gradient(#ff5050, rgb(223, 150, 137), rgb(165, 96, 96));
-    //     -webkit-background-clip: text;
-    //     -webkit-text-fill-color: transparent;
+     h1:hover{
         
-    // }
+         background: -webkit-linear-gradient(purple, rgb(165, 96, 96));
+         -webkit-background-clip: text;
+         -webkit-text-fill-color: transparent;
+        
+     }
 
     h2 {
         font-size: 300%;
