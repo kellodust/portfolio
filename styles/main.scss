@@ -332,8 +332,8 @@ footer .socialmedia img{
 }
 
 .home-grid a:hover {
-    transition: .4s;
-    opacity: .5;
+    transition: .7s;
+    filter: grayscale(1);
 }
 
 .home-grid a:nth-of-type(1) {
