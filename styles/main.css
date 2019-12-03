@@ -277,11 +277,11 @@ footer .socialmedia img {
   z-index: 1;
   position: absolute;
   font-size: 3em;
-  color: #a0b297;
+  color: #4d785f;
   text-align: center;
   text-decoration: none;
   margin: 1em;
-  visibility: hidden;
+  opacity: 0%;
 }
 
 .home-grid a img {
@@ -302,7 +302,7 @@ footer .socialmedia img {
 .home-grid a:hover p {
   -webkit-transition: 1s;
   transition: 1s;
-  visibility: visible;
+  opacity: 100%;
 }
 
 .home-grid a:nth-of-type(1) {
