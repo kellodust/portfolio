@@ -99,6 +99,14 @@ h3{
 
 }
 
+h4 {
+    font-size: 200%;
+    color: $color2;
+    text-transform: uppercase;
+    text-align: center;
+    margin-bottom: 2em;
+}
+
 nav a{  
     text-decoration: none;
     color: $color3;
@@ -249,13 +257,7 @@ footer .socialmedia img{
         font-size: 200%;
 
     }
-    h4 {
-        font-size: 200%;
-        color: $color2;
-        text-transform: uppercase;
-        text-align: center;
-        margin-bottom: 2em;
-    }
+  
 
     p{
         line-height: 2em;
