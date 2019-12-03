@@ -292,14 +292,14 @@ footer .socialmedia img {
      object-fit: cover;
 }
 
-.home-grid a:hover {
+.home-grid a img:hover {
   -webkit-transition: .7s;
   transition: .7s;
   -webkit-filter: grayscale(100%);
           filter: grayscale(100%);
 }
 
-.home-grid a:hover p {
+.home-grid a img:hover p {
   -webkit-transition: 1s;
   transition: 1s;
   opacity: 100%;
