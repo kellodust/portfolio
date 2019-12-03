@@ -273,7 +273,7 @@ footer .socialmedia img {
   }
 }
 
-.home-grid a {
+.home-grid a:link {
   z-index: 1;
   position: absolute;
   font-size: 2em;
