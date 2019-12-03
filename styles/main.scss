@@ -230,7 +230,8 @@ footer .socialmedia img{
     h1:hover{
         background: -webkit-linear-gradient(indigo, purple, magenta, pink);
         transition: .4s;
-        
+        -webkit-background-clip: text;
+        -webkit-text-fill-color: transparent;
     }
 
     h2 {

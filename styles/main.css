@@ -190,6 +190,8 @@ footer .socialmedia img {
     background: -webkit-linear-gradient(indigo, purple, magenta, pink);
     -webkit-transition: .4s;
     transition: .4s;
+    -webkit-background-clip: text;
+    -webkit-text-fill-color: transparent;
   }
   h2 {
     font-size: 300%;
