@@ -284,8 +284,8 @@ footer .socialmedia img {
 .home-grid a:hover {
   -webkit-transition: .7s;
   transition: .7s;
-  -webkit-filter: grayscale(1);
-          filter: grayscale(1);
+  -webkit-filter: grayscale(100%);
+          filter: grayscale(100%);
 }
 
 .home-grid a:nth-of-type(1) {
