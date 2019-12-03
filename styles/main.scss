@@ -324,6 +324,12 @@ footer .socialmedia img{
     grid-template-rows: 30em 30em 30em 30em 30em 30em;
     }
 }
+.home-grid a {
+    z-index: 1;
+    position: absolute;
+    color: white;
+    text-align: center;
+}
 .home-grid a img{
     height: 100%;
     width: 100%;
