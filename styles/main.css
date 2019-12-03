@@ -297,10 +297,8 @@ footer .socialmedia img {
 .home-grid a:hover img {
   -webkit-transition: .7s;
   transition: .7s;
-  -webkit-filter: grayscale(100%);
-          filter: grayscale(100%);
-  -webkit-filter: brightness(40%);
-          filter: brightness(40%);
+  -webkit-filter: grayscale(100%) brightness(40%);
+          filter: grayscale(100%) brightness(40%);
 }
 
 .home-grid a:hover p {

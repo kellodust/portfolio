@@ -346,8 +346,7 @@ footer .socialmedia img{
 .home-grid a:hover {
     & img{
     transition: .7s;
-    filter: grayscale(100%);
-    filter: brightness(40%); 
+    filter: grayscale(100%) brightness(40%); 
     }
     & p{
         transition: 1s;
