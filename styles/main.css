@@ -171,6 +171,18 @@ footer .socialmedia img {
         -ms-flex-pack: justify;
             justify-content: space-between;
   }
+  h1 {
+    font-size: 1000%;
+    font-weight: 900;
+    margin-bottom: 0;
+    -webkit-transition: 6s;
+    transition: 6s;
+  }
+  h1:hover {
+    background: -webkit-linear-gradient(purple, #a56060);
+    -webkit-background-clip: text;
+    -webkit-text-fill-color: transparent;
+  }
   h1.header {
     font-size: 300%;
     letter-spacing: 5pt;
@@ -184,18 +196,6 @@ footer .socialmedia img {
     font-size: 130%;
     display: inline;
     word-spacing: 20pt;
-  }
-  h1 {
-    font-size: 1000%;
-    font-weight: 900;
-    margin-bottom: 0;
-    -webkit-transition: 6s;
-    transition: 6s;
-  }
-  h1:hover {
-    background: -webkit-linear-gradient(purple, #a56060);
-    -webkit-background-clip: text;
-    -webkit-text-fill-color: transparent;
   }
   h2 {
     font-size: 300%;
