@@ -284,11 +284,6 @@ footer .socialmedia img {
   margin: 1em;
   opacity: 0%;
   font-weight: 900;
-  display: -webkit-box;
-  display: -ms-flexbox;
-  display: flex;
-  -ms-flex-wrap: wrap;
-      flex-wrap: wrap;
 }
 
 .home-grid a img {
