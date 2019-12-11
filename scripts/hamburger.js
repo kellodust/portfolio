@@ -1,5 +1,5 @@
 function toggleNav() {
 	var updateElement = document.getElementById("menu-icon");
- //toggle adds a class if it's not there or removes it if it is.
+ //toggle adds a class if it's not there or removes it if it  itis.
  updateElement.classList.toggle("open");
 } 
