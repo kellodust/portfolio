@@ -267,6 +267,7 @@ footer .socialmedia img {
     font-size: 16pt;
   }
   .home-grid {
+    margin: 5em;
     display: -ms-grid;
     display: grid;
     -ms-grid-columns: 1fr 1fr 1fr;
