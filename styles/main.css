@@ -113,7 +113,7 @@ nav a {
   display: none;
 }
 
-.menu-iconopen ul {
+.menu-icon open ul {
   display: contents;
 }
 
@@ -192,7 +192,7 @@ footer .socialmedia img {
   nav li {
     display: contents;
   }
-  .menu-icon, .menu-iconopen {
+  .menu-icon, .menu-icon open {
     display: contents;
   }
   .menu-icon span {
