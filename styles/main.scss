@@ -131,6 +131,8 @@ nav ul {
     height: 5px;
     background-color: $color1;
     margin: 3px;
+    content: "";
+    z-index: 99;
 }
 
 .menu-icon span::before {

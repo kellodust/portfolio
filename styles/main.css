@@ -126,6 +126,8 @@ nav ul {
   height: 5px;
   background-color: #fd802d;
   margin: 3px;
+  content: "";
+  z-index: 99;
 }
 
 .menu-icon span::before {
