@@ -216,10 +216,7 @@ footer .socialmedia img {
     line-height: 2em;
     font-size: 18pt;
   }
-  nav li {
-    display: contents;
-  }
-  .menu-icon {
+  .menu-icon ul {
     display: contents;
   }
   .menu-icon span {
