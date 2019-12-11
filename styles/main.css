@@ -133,11 +133,11 @@ nav ul {
 }
 
 .menu-icon span:before {
-  margin: 5px;
+  margin-top: 5px;
 }
 
 .menu-icon span:after {
-  margin: -5px;
+  margin-bottom: -5px;
 }
 
 .menu-icon ul {
