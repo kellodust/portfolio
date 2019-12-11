@@ -125,26 +125,35 @@ nav ul {
 }
 
 
-.menu-icon {
+.menu-icon span{
     display: block;
     width: 35px;
     height: 5px;
     background-color: $color1;
     margin: 3px;
-    & span {
-        margin: 3px;
-    }
-    & span::before {
+}
+
+.menu-icon span::before {
+    display: block;
+    width: 35px;
+    height: 5px;
+    background-color: $color1;
+    margin: 3px;
         margin-top: 5px;
         content: "";
     }
-    & span::after {
+
+span::after {
+    display: block;
+    width: 35px;
+    height: 5px;
+    background-color: $color1;
+    margin: 3px;
         margin-bottom: -5px;
         content: "";
         display: block;
         z-index: 99;
     }
-}
 
 .menu-icon ul{
     display: none;
