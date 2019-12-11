@@ -126,18 +126,19 @@ nav ul {
 
 
 .menu-icon {
-    span:before{
-        margin: -6px;
-    & .menu-icon span:after {
-        margin: 12px;
-    & .menu-icon span{
     display: block;
     width: 35px;
     height: 5px;
     background-color: $color1;
     margin: 3px;
+    & span {
+        margin: 3px;
     }
-}
+    & span:before {
+        margin: 5px;
+    }
+    & span:after {
+        margin: -5px;
     }
 }
 
