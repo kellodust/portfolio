@@ -102,6 +102,11 @@ nav a {
   list-style: none;
 }
 
+nav ul {
+  font-size: 3em;
+  padding: 1em;
+}
+
 .menu-icon span, span::before, span::after {
   display: block;
   width: 35px;
