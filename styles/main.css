@@ -102,10 +102,6 @@ nav a {
   list-style: none;
 }
 
-.mainmenu li {
-  display: none;
-}
-
 nav.mainmenu {
   margin: none;
   padding: none;
@@ -116,20 +112,6 @@ nav.mainmenu {
   height: 5px;
   background-color: #fd802d;
   margin: 3px;
-}
-
-.mainmenu.responsive div {
-  display: none;
-}
-
-.mainmenu.responsive li {
-  display: block;
-  width: 100%;
-  font-size: 2em;
-}
-
-.mainmenu.responsive li a {
-  text-align: left;
 }
 
 nav a:hover {
