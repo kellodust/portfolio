@@ -217,10 +217,10 @@ footer .socialmedia img {
     font-size: 18pt;
   }
   nav li {
-    display: inline;
+    display: contents;
   }
   .menu-icon {
-    display: inline;
+    display: contents;
   }
   .menu-icon span {
     display: none;
