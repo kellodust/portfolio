@@ -107,7 +107,7 @@ nav.mainmenu {
   padding: none;
 }
 
-.mainmenu div {
+.mainmenu span, span::before, span::after {
   width: 35px;
   height: 5px;
   background-color: #fd802d;
@@ -118,7 +118,7 @@ nav a:hover {
   -webkit-transition: 1s;
   transition: 1s;
   color: lightgray;
-  letter-spacing: 8px;
+  letter-spacing: 4px;
 }
 
 nav ul li.active a {
