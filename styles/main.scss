@@ -134,10 +134,10 @@ nav ul {
     & span {
         margin: 3px;
     }
-    & span:before {
+    & span::before {
         margin-top: 5px;
     }
-    & span:after {
+    & span::after {
         margin-bottom: -5px;
     }
 }
@@ -287,7 +287,7 @@ footer .socialmedia img{
 
     }
 
-    .menu-icon span{
+    .menu-icon span, span::before, span::after{
         display: none;
     }
 

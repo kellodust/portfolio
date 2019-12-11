@@ -132,11 +132,11 @@ nav ul {
   margin: 3px;
 }
 
-.menu-icon span:before {
+.menu-icon span::before {
   margin-top: 5px;
 }
 
-.menu-icon span:after {
+.menu-icon span::after {
   margin-bottom: -5px;
 }
 
@@ -225,7 +225,7 @@ footer .socialmedia img {
   .menu-icon ul {
     display: contents;
   }
-  .menu-icon span {
+  .menu-icon span, span::before, span::after {
     display: none;
   }
   footer .socialmedia img {
