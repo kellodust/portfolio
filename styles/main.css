@@ -190,10 +190,10 @@ footer .socialmedia img {
     font-size: 18pt;
   }
   nav li {
-    display: contents;
+    display: inline;
   }
-  .menu-icon, .open {
-    display: contents;
+  .menu-icon {
+    display: inline;
   }
   .menu-icon span {
     display: none;

@@ -124,7 +124,7 @@ nav a{
     display: none;
 }
 
-.open  ul{
+.open ul{
     display: contents;
 }
 
@@ -261,10 +261,10 @@ footer .socialmedia img{
     }
 
     nav li{
-        display: contents;
+        display: inline;
     }
-    .menu-icon, .open{
-        display: contents;
+    .menu-icon{
+        display: inline;
 
     }
 
