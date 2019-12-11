@@ -140,6 +140,7 @@ nav ul {
 .menu-icon span::after {
   margin-bottom: -5px;
   content: "";
+  display: block;
 }
 
 .menu-icon ul {
