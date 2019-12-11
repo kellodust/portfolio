@@ -135,7 +135,7 @@ nav ul {
   height: 5px;
   background-color: #fd802d;
   margin: 3px;
-  margin-top: 5px;
+  margin-top: 10px;
   content: "";
   display: block;
   z-index: 99;
@@ -146,7 +146,7 @@ nav ul {
   height: 5px;
   background-color: #fd802d;
   margin: 3px;
-  margin-top: 10px;
+  margin-top: 20px;
   content: "";
   display: block;
   z-index: 99;
