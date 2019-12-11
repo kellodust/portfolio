@@ -125,18 +125,18 @@ nav ul {
 }
 
 
-.menu-icon span{
-    display: block;
-    width: 35px;
-    height: 5px;
-    background-color: $color1;
-    margin: 3px;
-    & span:before {
+.menu-icon span:before {
         margin: -6px;
     }
     & span:after {
         margin: 12px;
     }
+    & span{
+    display: block;
+    width: 35px;
+    height: 5px;
+    background-color: $color1;
+    margin: 3px;
     
     
 }
