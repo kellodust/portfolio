@@ -136,9 +136,11 @@ nav ul {
     }
     & span::before {
         margin-top: 5px;
+        content: "";
     }
     & span::after {
         margin-bottom: -5px;
+        content: "";
     }
 }
 

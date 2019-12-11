@@ -134,10 +134,12 @@ nav ul {
 
 .menu-icon span::before {
   margin-top: 5px;
+  content: "";
 }
 
 .menu-icon span::after {
   margin-bottom: -5px;
+  content: "";
 }
 
 .menu-icon ul {
