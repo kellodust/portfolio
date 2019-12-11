@@ -99,7 +99,6 @@ h4 {
 
 nav a {
   text-decoration: none;
-  color: #4d785f;
   list-style: none;
 }
 
@@ -137,7 +136,7 @@ nav a:hover {
   -webkit-transition: 1s;
   transition: 1s;
   color: lightgray;
-  letter-spacing: 4%;
+  letter-spacing: 30%;
 }
 
 nav ul li.active a {
