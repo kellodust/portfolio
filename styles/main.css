@@ -267,8 +267,7 @@ footer .socialmedia img {
     font-size: 16pt;
   }
   .home-grid {
-    margin: 1em;
-    border-radius: 30%;
+    margin: 15em 0 0 0;
     display: -ms-grid;
     display: grid;
     -ms-grid-columns: 1fr 1fr 1fr;
