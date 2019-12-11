@@ -114,11 +114,12 @@ nav a{
 
 
 .menu-icon span, span::before, span::after{
+    display: block;
     width: 35px;
     height: 5px;
     background-color: $color1;
     margin: 3px;
-    display: block;
+    
 }
 
 .menu-icon ul{
