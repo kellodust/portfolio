@@ -134,25 +134,27 @@ nav ul {
 }
 
 .menu-icon span::before {
-    display: block;
+
     width: 35px;
     height: 5px;
     background-color: $color1;
     margin: 3px;
-        margin-top: 5px;
-        content: "";
+    margin-top: 5px;
+    content: "";
+    display: block;
+    z-index: 99;
     }
 
-span::after {
-    display: block;
+.menu-icon span::after {
+
     width: 35px;
     height: 5px;
     background-color: $color1;
     margin: 3px;
-        margin-bottom: -5px;
-        content: "";
-        display: block;
-        z-index: 99;
+    margin-bottom: -10px;
+    content: "";
+    display: block;
+    z-index: 99;
     }
 
 .menu-icon ul{
