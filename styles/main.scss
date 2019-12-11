@@ -7,7 +7,7 @@ $body-background-color: black;
 $color1: rgb(253, 128, 45);
 $color2: rgb(250, 166, 128);
 $color3: rgb(77, 120, 95); 
-$color4: black;
+$color4: white;
 
 
 
@@ -112,10 +112,6 @@ nav a{
     
 }
 
-nav.mainmenu{
-    margin: none;
-    padding: none;
-}
 
 .menu-icon span, span:before, span:after{
     width: 35px;

@@ -86,7 +86,7 @@ h2 {
 }
 
 h3 {
-  color: black;
+  color: white;
 }
 
 h4 {
@@ -100,11 +100,6 @@ h4 {
 nav a {
   text-decoration: none;
   list-style: none;
-}
-
-nav.mainmenu {
-  margin: none;
-  padding: none;
 }
 
 .menu-icon span, span:before, span:after {
@@ -126,7 +121,7 @@ nav ul li.active a {
 }
 
 p {
-  color: black;
+  color: white;
   font-size: 2em;
 }
 
