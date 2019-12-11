@@ -120,6 +120,13 @@ nav a{
     margin: 3px;
 }
 
+.menu-icon ul{
+    display: none;
+}
+
+.menu-iconopen ul{
+    display: contents;
+}
 
 // .mainmenu.responsive li { 
 //     display: block;	
@@ -253,13 +260,19 @@ footer .socialmedia img{
         font-size: 18pt;
     }
 
-    .mainmenu li{
+    nav li{
         display: contents;
     }
+    .menu-icon, .menu-iconopen{
+        display: contents;
 
-    .mainmenu button{
+    }
+
+    .menu-icon span{
         display: none;
     }
+
+    
 
     footer .socialmedia img{
         width: 3%;

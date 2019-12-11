@@ -109,6 +109,14 @@ nav a {
   margin: 3px;
 }
 
+.menu-icon ul {
+  display: none;
+}
+
+.menu-iconopen ul {
+  display: contents;
+}
+
 nav a:hover {
   -webkit-transition: 1s;
   transition: 1s;
@@ -181,10 +189,13 @@ footer .socialmedia img {
     line-height: 2em;
     font-size: 18pt;
   }
-  .mainmenu li {
+  nav li {
     display: contents;
   }
-  .mainmenu button {
+  .menu-icon, .menu-iconopen {
+    display: contents;
+  }
+  .menu-icon span {
     display: none;
   }
   footer .socialmedia img {
