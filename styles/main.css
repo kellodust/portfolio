@@ -107,7 +107,7 @@ nav.mainmenu {
   padding: none;
 }
 
-.mainmenu span, span::before, span::after {
+.mainmenu span, span:before, span:after {
   width: 35px;
   height: 5px;
   background-color: #fd802d;
