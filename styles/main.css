@@ -229,7 +229,10 @@ footer .socialmedia img {
   .menu-icon ul {
     display: contents;
   }
-  .menu-icon span, span::before, span::after {
+  .menu-icon span {
+    display: none;
+  }
+  .menu-icon span::before, span::after {
     display: none;
   }
   footer .socialmedia img {

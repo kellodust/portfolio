@@ -291,7 +291,11 @@ footer .socialmedia img{
 
     }
 
-    .menu-icon span, span::before, span::after{
+    .menu-icon span{
+        display: none;
+    }
+
+    .menu-icon span::before, span::after{
         display: none;
     }
 
