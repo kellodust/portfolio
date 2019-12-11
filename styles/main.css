@@ -136,7 +136,7 @@ nav a:hover {
   -webkit-transition: 1s;
   transition: 1s;
   color: lightgray;
-  letter-spacing: 30%;
+  letter-spacing: 3px;
 }
 
 nav ul li.active a {
