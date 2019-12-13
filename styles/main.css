@@ -35,7 +35,7 @@ body {
 
 .container {
   /* color: rgb(103, 118, 97); */
-  color: #ededed;
+  color: #504d4d;
   min-height: 100vh;
   overflow: hidden;
   display: block;
@@ -80,7 +80,7 @@ strong {
 
 h2 {
   font-size: 80%;
-  color: #4d785f;
+  color: #504d4d;
   text-transform: uppercase;
   letter-spacing: 6px;
 }

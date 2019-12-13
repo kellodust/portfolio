@@ -6,7 +6,7 @@
 $body-background-color: black;
 $color1: rgb(253, 128, 45);
 $color2: rgb(250, 166, 128);
-$color3: rgb(77, 120, 95); 
+$color3: rgb(80, 77, 77); 
 $color4: white;
 
 
@@ -49,7 +49,7 @@ body{
 }
 .container {
    /* color: rgb(103, 118, 97); */
-    color: hsl(0, 0%, 93%);
+    color: $color3;
     min-height: 100vh;
     overflow: hidden;
     display: block;
