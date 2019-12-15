@@ -250,10 +250,13 @@ footer .socialmedia img {
   footer .socialmedia img {
     width: 3%;
   }
-  .home, .container {
+  .home {
     max-width: 70%;
     margin-left: 15%;
     margin-right: 15%;
+  }
+  .container {
+    max-width: 100%;
   }
   .mypic {
     width: 30%;
