@@ -394,6 +394,11 @@ footer .socialmedia img{
     
 }
 
+.logos div{
+    display: grid;
+    grid-template-columns: 1fr 1fr;
+}
+
 .logos img {
     height: 100%;
     width: 100%;
