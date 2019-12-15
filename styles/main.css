@@ -402,4 +402,8 @@ footer .socialmedia img {
   -ms-grid-column-span: 2;
       grid-column-end: span 2;
 }
+
+.home-grid a:nth-of-type(12) img {
+  width: 100%;
+}
 /*# sourceMappingURL=main.css.map */
