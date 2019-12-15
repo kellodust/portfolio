@@ -325,8 +325,8 @@ footer .socialmedia img {
     display: flex;
     -webkit-box-orient: horizontal;
     -webkit-box-direction: normal;
-        -ms-flex-direction: row;
-            flex-direction: row;
+        -ms-flex-flow: row nowrap;
+            flex-flow: row nowrap;
     padding: 500px;
   }
   .resume .logos img {
