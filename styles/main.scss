@@ -398,7 +398,7 @@ footer .socialmedia img{
     
 }
 
-div.logos div{
+div.logos>div{
     display: grid;
     grid-template-columns: 1fr 1fr;
     grid-template-rows: 1fr;
