@@ -385,6 +385,18 @@ footer .socialmedia img{
         line-height: 1.8em;
         font-size: 16pt;
     }
+
+.logos {
+    margin: 17em 0 0 0;
+    display: grid;
+    grid-template-columns: 1fr;
+    
+}
+
+.logos img {
+    width: 100%;
+}
+
 }
 .home-grid {
     margin: 17em 0 0 0;

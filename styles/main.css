@@ -302,6 +302,16 @@ footer .socialmedia img {
     line-height: 1.8em;
     font-size: 16pt;
   }
+  .resume .logos {
+    margin: 17em 0 0 0;
+    display: -ms-grid;
+    display: grid;
+    -ms-grid-columns: 1fr;
+        grid-template-columns: 1fr;
+  }
+  .resume .logos img {
+    width: 100%;
+  }
   .home-grid {
     margin: 17em 0 0 0;
     display: -ms-grid;
