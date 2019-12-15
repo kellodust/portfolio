@@ -451,8 +451,14 @@ grid-row-start: 1;
       grid-row-start: 6;
      grid-column-end: span 2;
  
-img{
-    width: 100%;
-}
+    .full-image {
+        background: url(/images/cactusLogoMockup1.jpg) no-repeat center center fixed;
+        background: url(/images/cactusLogoMockup.jpg) no-repeat center center fixed;
+        background: url(/images/ProviderFarmsLogo.jpg) no-repeat center center fixed;
+        background: url(/images/providerFarmsMockupTshirt.jpg) no-repeat center center fixed;
+        background: url(/images/pinnaclePestLogoMockup.jpg) no-repeat center center fixed;
+        background: url(/images/pinnacleLogoMockup2.jpg) no-repeat center center fixed;
+    }
+
 
 }
