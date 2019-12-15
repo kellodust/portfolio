@@ -313,7 +313,6 @@ footer .socialmedia img {
   }
   .logos {
     margin: 0;
-    line-height: 0;
     display: -ms-grid;
     display: grid;
     -ms-grid-columns: 1fr;
@@ -327,9 +326,6 @@ footer .socialmedia img {
   }
   .logo-display div {
     padding: 4em 4em 0 0;
-  }
-  .logo-display h2 {
-    line-height: 15pt;
   }
   .home-grid {
     margin: 7em 0 0 0;

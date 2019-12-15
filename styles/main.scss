@@ -392,7 +392,6 @@ footer .socialmedia img{
 }
 .logos {
     margin: 0;
-    line-height: 0;
     display: grid;
     grid-template-columns: 1fr;
     
@@ -404,9 +403,7 @@ footer .socialmedia img{
     div{
         padding: 4em 4em 0 0;
     }
-    h2{
-        line-height: 15pt;
-    }
+
     
 }
 
