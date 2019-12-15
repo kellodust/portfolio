@@ -278,6 +278,7 @@ footer .socialmedia img {
   .portfoliogrid {
     display: -ms-grid;
     display: grid;
+    float: left;
     -ms-grid-columns: auto auto auto;
         grid-template-columns: auto auto auto;
     -ms-grid-rows: auto auto auto;
