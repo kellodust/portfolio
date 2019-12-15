@@ -326,15 +326,8 @@ footer .socialmedia img {
         grid-template-columns: 1fr 1fr;
     padding-left: 1em;
   }
-  .resume .logos img {
-    height: 100%;
-    width: 100%;
-    display: block;
-    -o-object-fit: cover;
-       object-fit: cover;
-  }
   .home-grid {
-    margin: 17em 0 0 0;
+    margin: 7em 0 0 0;
     display: -ms-grid;
     display: grid;
     -ms-grid-columns: 1fr 1fr 1fr;
