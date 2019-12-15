@@ -399,8 +399,9 @@ footer .socialmedia img{
 }
 
 .logo-display {
-    display: flex;
-    flex-flow: row nowrap;
+    display: grid;
+    grid-template-columns: 1fr 1fr;
+    padding-left: 1em;
     
 }
 

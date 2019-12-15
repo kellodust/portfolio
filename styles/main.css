@@ -320,13 +320,11 @@ footer .socialmedia img {
         grid-template-columns: 1fr;
   }
   .resume .logo-display {
-    display: -webkit-box;
-    display: -ms-flexbox;
-    display: flex;
-    -webkit-box-orient: horizontal;
-    -webkit-box-direction: normal;
-        -ms-flex-flow: row nowrap;
-            flex-flow: row nowrap;
+    display: -ms-grid;
+    display: grid;
+    -ms-grid-columns: 1fr 1fr;
+        grid-template-columns: 1fr 1fr;
+    padding-left: 1em;
   }
   .resume .logos img {
     height: 100%;
