@@ -197,6 +197,15 @@ footer .socialmedia img {
   opacity: .5;
 }
 
+.logos {
+  background: url(/images/cactusLogoMockup1.jpg) no-repeat center center fixed;
+  background: url(/images/cactusLogoMockup.jpg) no-repeat center center fixed;
+  background: url(/images/ProviderFarmsLogo.jpg) no-repeat center center fixed;
+  background: url(/images/providerFarmsMockupTshirt.jpg) no-repeat center center fixed;
+  background: url(/images/pinnaclePestLogoMockup.jpg) no-repeat center center fixed;
+  background: url(/images/pinnacleLogoMockup2.jpg) no-repeat center center fixed;
+}
+
 /*Desktop Version*/
 @media only screen and (min-width: 1340px) {
   header {
@@ -398,14 +407,5 @@ footer .socialmedia img {
       grid-row-start: 6;
   -ms-grid-column-span: 2;
       grid-column-end: span 2;
-}
-
-.home-grid a:nth-of-type(12) .full-image {
-  background: url(/images/cactusLogoMockup1.jpg) no-repeat center center fixed;
-  background: url(/images/cactusLogoMockup.jpg) no-repeat center center fixed;
-  background: url(/images/ProviderFarmsLogo.jpg) no-repeat center center fixed;
-  background: url(/images/providerFarmsMockupTshirt.jpg) no-repeat center center fixed;
-  background: url(/images/pinnaclePestLogoMockup.jpg) no-repeat center center fixed;
-  background: url(/images/pinnacleLogoMockup2.jpg) no-repeat center center fixed;
 }
 /*# sourceMappingURL=main.css.map */
