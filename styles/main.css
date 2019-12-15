@@ -204,6 +204,7 @@ footer .socialmedia img {
   background: url(/images/providerFarmsMockupTshirt.jpg) no-repeat center center fixed;
   background: url(/images/pinnaclePestLogoMockup.jpg) no-repeat center center fixed;
   background: url(/images/pinnacleLogoMockup2.jpg) no-repeat center center fixed;
+  background-size: cover;
 }
 
 /*Desktop Version*/
