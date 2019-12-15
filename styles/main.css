@@ -324,7 +324,7 @@ footer .socialmedia img {
     display: grid;
     -ms-grid-columns: auto auto;
         grid-template-columns: auto auto;
-    padding-left: 1em;
+    padding-right: 1em;
   }
   .home-grid {
     margin: 7em 0 0 0;
