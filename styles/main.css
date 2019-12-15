@@ -256,7 +256,7 @@ footer .socialmedia img {
     margin-right: 15%;
   }
   .container {
-    max-width: 100%;
+    width: 100%;
   }
   .mypic {
     width: 30%;
