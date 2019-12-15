@@ -307,7 +307,10 @@ footer .socialmedia img {
     -ms-grid-columns: 1fr;
         grid-template-columns: 1fr;
   }
-  .display h2, .display p {
+  .display h2 {
+    padding: 4em 8em 0;
+  }
+  .display p {
     padding: 8em;
   }
   .logo-display {
