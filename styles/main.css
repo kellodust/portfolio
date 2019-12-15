@@ -310,6 +310,7 @@ footer .socialmedia img {
         grid-template-columns: 1fr;
   }
   .resume .logos img {
+    display: block;
     width: 100%;
   }
   .home-grid {
