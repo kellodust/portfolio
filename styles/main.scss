@@ -398,8 +398,9 @@ footer .socialmedia img{
     
 }
 
-.logos div{
+.logo-display{
     display: flex;
+    flex-direction: row;
 
 }
 
