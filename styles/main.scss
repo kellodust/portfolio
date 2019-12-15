@@ -389,7 +389,7 @@ footer .socialmedia img{
         line-height: 1.8em;
         font-size: 16pt;
     }
-
+}
 .logos {
     margin: 0;
     line-height: 0;
@@ -400,7 +400,7 @@ footer .socialmedia img{
 
 .logo-display {
     display: grid;
-    grid-template-columns: 1fr 1fr;
+    grid-template-columns: auto auto;
     padding-left: 1em;
     
 }
@@ -412,7 +412,7 @@ footer .socialmedia img{
 //     object-fit: cover;
 // }
 
-}
+
 .home-grid {
     margin: 7em 0 0 0;
     display: grid;
