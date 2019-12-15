@@ -286,7 +286,7 @@ footer .socialmedia img{
         text-transform: uppercase;
         font-size: 130%;
         display: flex;
-        flex-direction: row;
+        flex-flow: row nowrap;
         word-spacing: 20pt;
     
 
