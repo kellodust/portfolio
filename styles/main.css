@@ -239,6 +239,9 @@ footer .socialmedia img {
     margin-left: 15%;
     margin-right: 15%;
   }
+  .music {
+    background-color: #4275b2;
+  }
   .mypic {
     width: 40%;
     -ms-flex-item-align: center;
