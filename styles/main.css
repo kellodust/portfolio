@@ -313,6 +313,16 @@ footer .socialmedia img {
   .display p {
     padding: 0 240px 4em;
   }
+  .logo-display-padding {
+    margin: 0;
+    display: -ms-grid;
+    display: grid;
+    -ms-grid-columns: 1fr;
+        grid-template-columns: 1fr;
+  }
+  .logo-display-padding h2, .logo-display-padding p {
+    padding: 0;
+  }
   .logo-display {
     display: -ms-grid;
     display: grid;
@@ -321,16 +331,6 @@ footer .socialmedia img {
   }
   .logo-display div {
     padding: 2em 4em 2em 2em;
-  }
-  .logo-display .logo-display-padding {
-    margin: 0;
-    display: -ms-grid;
-    display: grid;
-    -ms-grid-columns: 1fr;
-        grid-template-columns: 1fr;
-  }
-  .logo-display .logo-display-padding h2, .logo-display .logo-display-padding p {
-    padding: 0;
   }
   .home-grid {
     margin: 7em 0 0 0;

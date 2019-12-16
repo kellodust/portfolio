@@ -400,13 +400,6 @@ footer .socialmedia img{
     
 }
 
-.logo-display {
-    display: grid;
-    grid-template-columns: 1fr 1fr;
-    div{
-        padding: 2em 4em 2em 2em;
-    }
-
 .logo-display-padding {
     margin: 0;
     display: grid;
@@ -416,6 +409,15 @@ footer .socialmedia img{
     }
 
 }
+
+.logo-display {
+    display: grid;
+    grid-template-columns: 1fr 1fr;
+    div{
+        padding: 2em 4em 2em 2em;
+    }
+
+
     
 
     
