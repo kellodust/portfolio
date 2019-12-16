@@ -407,8 +407,11 @@ footer .socialmedia img{
         padding: 2em 4em 2em 2em;
     }
 
-.logo-display-pads {
+.logo-display-padding {
     padding: 0;
+    margin: 0;
+    display: grid;
+    grid-template-columns: 1fr;
 }
     
 

@@ -322,8 +322,13 @@ footer .socialmedia img {
   .logo-display div {
     padding: 2em 4em 2em 2em;
   }
-  .logo-display .logo-display-pads {
+  .logo-display .logo-display-padding {
     padding: 0;
+    margin: 0;
+    display: -ms-grid;
+    display: grid;
+    -ms-grid-columns: 1fr;
+        grid-template-columns: 1fr;
   }
   .home-grid {
     margin: 7em 0 0 0;
