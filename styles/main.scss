@@ -347,10 +347,10 @@ footer .socialmedia img{
 
     .bio{
         display: flex;
-        justify-content: center;
+        justify-content: space-around;
     }
 
-    .bio p {
+    .bio p, h3 {
         padding-left: 5%;
     }
 
