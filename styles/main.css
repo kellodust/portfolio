@@ -156,7 +156,7 @@ nav a:hover {
   letter-spacing: 4px;
 }
 
-.active {
+nav ul li.active a {
   color: black;
 }
 
