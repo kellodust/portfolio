@@ -228,7 +228,9 @@ footer .socialmedia img {
   .menu-icon ul {
     text-transform: uppercase;
     font-size: 130%;
-    display: inline-block;
+    display: -webkit-box;
+    display: -ms-flexbox;
+    display: flex;
     word-spacing: 20pt;
   }
   h2 {
