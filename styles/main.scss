@@ -391,12 +391,12 @@ footer .socialmedia img{
     margin: 0;
     display: grid;
     grid-template-columns: 1fr;
-    // h2 {
-    //     padding: 2em 240px 0;
-    // }
-    // p {
-    //     padding: 0 240px 4em;
-    // }
+    h2 {
+        padding: 2em 240px 0;
+    }
+    p {
+        padding: 0 240px 4em;
+    }
     
 }
 
@@ -406,6 +406,10 @@ footer .socialmedia img{
     div{
         padding: 2em 4em 2em 2em;
     }
+
+.logo-display-pads {
+    padding: 0;
+}
     
 
     
