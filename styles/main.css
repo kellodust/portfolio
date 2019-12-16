@@ -411,6 +411,7 @@ footer .socialmedia img {
       grid-row-start: 3;
   -ms-grid-column-span: 2;
       grid-column-end: span 2;
+  height: 150%;
 }
 
 .home-grid a:nth-of-type(8) {
