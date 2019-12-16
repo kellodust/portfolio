@@ -153,8 +153,8 @@ nav a:hover {
   letter-spacing: 4px;
 }
 
-nav ul li.active a {
-  color: white;
+.active {
+  color: #504d4d;
 }
 
 p {
