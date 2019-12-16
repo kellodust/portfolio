@@ -307,12 +307,6 @@ footer .socialmedia img {
     -ms-grid-columns: 1fr;
         grid-template-columns: 1fr;
   }
-  .display h2 {
-    padding: 2em 240px 0;
-  }
-  .display p {
-    padding: 0 240px 4em;
-  }
   .logo-display {
     display: -ms-grid;
     display: grid;
