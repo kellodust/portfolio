@@ -115,9 +115,11 @@ nav {
     text-align: right;
     & a{  
     text-decoration: none;
+    }
+    & li{
     list-style: none;
-    
-}
+    }
+
 }
 nav ul {
     font-size: 1.5em;
@@ -505,7 +507,7 @@ grid-row-start: 1;
     grid-column-start: 3;
     grid-row-start: 2;
     grid-row-end: span 2;
-    height: 150%;
+
 
     }
 
@@ -520,7 +522,7 @@ grid-row-start: 1;
       grid-column-start: 2;
      grid-row-start: 4;
     grid-column-end: span 2;
-    height: 150%;
+
 
             }
 
