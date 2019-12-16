@@ -189,7 +189,7 @@ nav ul {
 nav a:hover{
     transition: 1s;
     color: lightgray;
-    letter-spacing: 4px;
+    text-decoration: underline;
 }
 
 
@@ -381,7 +381,10 @@ footer .socialmedia img{
         justify-content: space-around;
     }
 
-    .bio p, h3 {
+    .bio p{
+        padding-left: 5%;
+    }
+    .bio h3 {
         padding-left: 5%;
     }
 

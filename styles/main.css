@@ -156,7 +156,7 @@ nav a:hover {
   -webkit-transition: 1s;
   transition: 1s;
   color: lightgray;
-  letter-spacing: 4px;
+  text-decoration: underline;
 }
 
 nav ul li.active a {
@@ -277,7 +277,10 @@ footer .socialmedia img {
     -ms-flex-pack: distribute;
         justify-content: space-around;
   }
-  .bio p, h3 {
+  .bio p {
+    padding-left: 5%;
+  }
+  .bio h3 {
     padding-left: 5%;
   }
   .portfoliogrid {
