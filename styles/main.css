@@ -210,11 +210,6 @@ footer .socialmedia img {
 
 /*Desktop Version*/
 @media only screen and (min-width: 1340px) {
-  header {
-    -webkit-box-pack: justify;
-        -ms-flex-pack: justify;
-            justify-content: space-between;
-  }
   h1 {
     font-size: 1000%;
     font-weight: 900;
