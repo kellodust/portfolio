@@ -426,7 +426,6 @@ footer .socialmedia img {
   -ms-grid-columns: 1fr 1fr 1fr 1fr;
       grid-template-columns: 1fr 1fr 1fr 1fr;
   grid-gap: 1em;
-  height: 15em;
 }
 
 .acai {
