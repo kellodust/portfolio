@@ -237,6 +237,7 @@ footer .socialmedia img {
     -webkit-box-direction: normal;
         -ms-flex-flow: row nowrap;
             flex-flow: row nowrap;
+    word-break: break-all;
     word-spacing: 20pt;
   }
   h2 {
